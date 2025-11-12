@@ -1,0 +1,1 @@
+export { default as chessHallLogo } from "./chess-hall-logo.png";
